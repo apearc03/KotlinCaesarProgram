@@ -1,4 +1,4 @@
-# KotlinCaesarProgram
+# Kotlin Caesar Decipher
 
 A Kotlin program that attempts to decipher any Caesar ciphered String without knowing the number used for rotation.
 
