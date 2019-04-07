@@ -133,7 +133,8 @@ fun main(args: Array<String>) {
     }*/
 
     do {
-        println("Enter deciper, encipher or exit")
+        println("Decrypt any string first and then decipher the ciphertext after.")
+        println("Enter decipher, encipher or exit")
         val command = readLine()
         when(command){
             "encipher"-> {
